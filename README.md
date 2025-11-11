@@ -1,6 +1,6 @@
 # 🧮 Number Summarizer
 
-A Java program that summarizes a collection of numbers into ranges. For example, input `1 2 3 5 6` → output `1-3,5-6`.
+A Java program that summarizes a collection of numbers into ranges. For example, input `1,2,3,5,6` → output `1-3,5-6`.
 
 ## 📚 Introduction
 
